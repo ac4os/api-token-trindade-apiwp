@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "api-token-trindade-apiwp",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d648652b-3e59-4810-8463-cb38547c7700",
+      "database_name": "api-tokens"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
